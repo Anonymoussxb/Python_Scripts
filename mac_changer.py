@@ -3,7 +3,7 @@
 # Emoji: https://emojipedia.org/en/search?q=address
 
 # 🔧 MAC Address Changer Utility
-# 🛡️ Author: Master Anon (https://github.com/yourusername)
+# 🛡️ Author: Master Anon (https://github.com/Anonymoussxb)
 # 📅 Date: 2025-05-17
 # 📝 Description: This tool allows you to spoof/change your MAC address 
 #     on a specified network interface for anonymity or security testing.
