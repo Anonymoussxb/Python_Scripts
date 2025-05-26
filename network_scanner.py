@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # 🌐 Network Device Scanner
-# 🛡️ Author: Master Anon (https://github.com/yourusername)
+# 🛡️ Author: Master Anon (https://github.com/Anonymoussxb)
 # 📅 Date: 2025-05-22
 # 📝 Description: This script scans for devices on a given subnet/IP range 
 #     and displays active IP and MAC addresses in a table.
